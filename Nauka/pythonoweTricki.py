@@ -13,10 +13,11 @@ def is_anagram(a, b):
     return Counter(a) == Counter(b)
 print(is_anagram("czesc","zescc")) # sprawdza czy wyrazy są anagramami
 # nr 4
-a = "izdreip kemyzs"
+a = "Dórms"
+print("Wyraz: ",a)
 print("Odwrocone: ",a[::-1]) # wypisuje od tylu
 # nr 5
 a = [1,2,3]
 x,y,z = a
-print("x = " + str(x) + " y = " + str(y) + " z = " + str(z)) # przypisanie elementow tablicy do zmiennych po kolei
+print("x = ",x, " y = ",y, " z = ",z) # przypisanie elementow tablicy do zmiennych po kolei
 # nr 6
