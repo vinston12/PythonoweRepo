@@ -36,4 +36,4 @@ name = "Dominik"
 
 greeting_with_name = greeting + name
 
-
+print( "I want to " + "code "*10)
