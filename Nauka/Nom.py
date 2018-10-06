@@ -37,5 +37,3 @@ name = "Dominik"
 greeting_with_name = greeting + name
 
 
-
-
