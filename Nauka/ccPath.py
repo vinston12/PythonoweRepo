@@ -12,7 +12,7 @@ f100_in_celsius = f_to_c(100)
 
 print(f100_in_celsius, "stopni celcjusza")
 
-
+ # siema eniu
 def c_to_f(c_temp):
     f_temp = c_temp*(9/5) + 32
     return f_temp
