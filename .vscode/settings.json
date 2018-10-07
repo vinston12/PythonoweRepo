@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\sdg43\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.unitTest.pyTestArgs": [
+        "Nauka"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.nosetestsEnabled": true,
+    "python.unitTest.pyTestEnabled": true
+}
